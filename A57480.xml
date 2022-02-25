@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trve copie of a letter sent from Patrick Roch a Romish priest in Ireland to Doctor Washington, provost of the college of Dublin and to the whole society wherein may plainly appeare their further machinations and plot workes towards the subversion of Protestanisme if God permit : likewise a short description of the rebels proceeding as it was sent in posscript of the same letter : sent in a letter from Mr. William Reymond, ... to Mr. Charles Frank ...</title>
+            <author>Roch, Patrick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57480</idno>
+            <idno type="STC">Wing R1737</idno>
+            <idno type="STC">ESTC R18093</idno>
+            <idno type="EEBO-CITATION">13405495</idno>
+            <idno type="OCLC">ocm 13405495</idno>
+            <idno type="VID">99403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 474:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trve copie of a letter sent from Patrick Roch a Romish priest in Ireland to Doctor Washington, provost of the college of Dublin and to the whole society wherein may plainly appeare their further machinations and plot workes towards the subversion of Protestanisme if God permit : likewise a short description of the rebels proceeding as it was sent in posscript of the same letter : sent in a letter from Mr. William Reymond, ... to Mr. Charles Frank ...</title>
+                  <author>Roch, Patrick.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Richard Cooper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Dublin: 1643.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99403:1" rendition="simple:additions"/>
+            <p>A TRVE COPIE OF A LETTER Sent from PATRICK ROCH A Romiſh Prieſt in <hi>Ireland,</hi> to
+Doctor <hi>Waſhington,</hi> provoſt of the College of Dublin, and to the whole Society.</p>
+            <p>Wherein may plainly appeare their further Machinations, and Plot-workes towards the
+ſubverſion of proteſtaniſme, if God permit.</p>
+            <p>Likewiſe a ſhort Deſcription of the Rebels proceedings, as it was ſent in a poſscript
+of the ſame Letter.</p>
+            <p>Sent in a Letter from Mr. William Reymond, Student and fellow of the College to Mr. Charles
+Frank, Mintſter of Gods Word in Suffolke, in former times his Chamberfellew in the Vniverſity
+of Cambridge.</p>
+            <p>Firſt printed at Dublin and now reprinted at London for Richard Cooper, 1641</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99403:2"/>
+            <pb facs="tcp:99403:2" rendition="simple:additions"/>
+            <head>THE COPIE Of a Letter ſent from <hi>Patricke Roch,</hi> a Romiſh prieſt in Ireland, to
+Doctor Waſhington, provoſt of the College of Dublin, and to the whole Society.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am confident that you, and the reſt of your ſo<g ref="char:EOLhyphen"/>ciety are not inſenſible of the
+inſolent affronts, the true Catholicks of late yeares have endured, and theſe, ſince your
+predominance in the Univer<g ref="char:EOLhyphen"/>ſity, have bin aggravated ſeverall wayes: I am ſorry that your
+fruſtating the expectations of your reall well-wiſhers (I meane the Roman Catholicks) have
+forced me to brand you with the title of an ill diſ<g ref="char:EOLhyphen"/>poſed Governor, and enemy to that true
+Church, whereof you ought to be a prime Member.</p>
+            <p>It is ſtrange that you ſhould be guided by the giddy brains, and illiterate perſwaſions
+of puny fellowes, whoſe Learning hath bin admired, and diſcretion unparallel'd in the
+Univerſity of Oxford.</p>
+            <p>
+               <pb facs="tcp:99403:3"/>It is not to be denyed, but that this College was
+ſounded, and conſecreted to the ſtudies of religions men, whoſe good workes here on earth
+might me<g ref="char:EOLhyphen"/>rit happineſſe, and in the world to come make them ſhine forth as the Sun in the
+kingdome of their Father.</p>
+            <p>But your ſociety have made it a den of Theeves by robbing the Natives of this kingdome of
+their priviledges (yea their Birth-rites) and extirpating thoſe, whoſe lights would ſo
+ſhine forth to this Kingdome, that all the world might ſee their good workes, and the
+bleſſed Saints by their ſervent pray<g ref="char:EOLhyphen"/>ers intercede for the wellfare of all the Inhabitants to
+Almighty God.</p>
+            <p>You may, I am ſure, will curſe the time that you arrived ſafe in <hi>Ireland,</hi> if you
+doe not ſpeedily curb the arrogancy of your Aſſociats, who daily prate againſt our
+<hi>Catholick Religion,</hi> and in their pulpits abbrobe the authority of our Church, and holy
+Fa<g ref="char:EOLhyphen"/>ther the Pope.</p>
+            <p>But what needs there more: had we not conceived better hopes, this warning-piece had not gone
+off. Be wiſe and charitable to your ſelves at length; if not to us (for it begins at home) wee
+need it not. The God of charity hatd heard our prayers, &amp; hath not ſtopped his eares to his
+diſtreſſed Militants here on earth: his battell we ſight, we feare no bad event the cauſe
+being his owne.</p>
+            <p>
+               <pb facs="tcp:99403:3"/>He cannot forſake us, becauſe hee cannot leave
+himſelfe.</p>
+            <q>Et ſi Deus pro nobis, quis contaa nos.</q>
+            <p>But I will keepe no longer from you, what in my duty I muſt impart: prevent now a courſe, if
+not too late, from your forſaken Mother <hi>the Church of Rome.</hi> It is already gone forth I
+feare, if our laſt let<g ref="char:EOLhyphen"/>ters have not prevailed: but his Holineſſe, who if without offence I
+ma ſpeake, being as mercifull as his Father of Heaven is mercifull, hath in his laſt good
+Letters incloſed this, which accept, and conſi<g ref="char:EOLhyphen"/>der of.</p>
+            <q>If they will imbrace the truth they may: if not proceed.</q>
+            <p>Sir, This needs no interpretation, his holy mea<g ref="char:EOLhyphen"/>ning (who as yet I am ſure never erred) is
+already decipher'd in characters of bloud. A poore begin<g ref="char:EOLhyphen"/>ning of <hi>Chriſts revenge,</hi>
+unleſſe according to all Chriſtians deſire the iſſue prove more ſucceſſefull; for
+we heartily wiſh, and indeavour if you perſiſt, as I may uſe that accuſſed Hereticks
+word in the <hi>Scottiſh</hi> cauſe, to extirpate you both root &amp; branch; dreame not of
+other Aſſiſtants, although policy may perſivade you: your cauſe in your owne
+con<g ref="char:EOLhyphen"/>ſciences is wrong, witneſſe our happy proceedings ſo proſperouſly, ſo
+ſuccesfully atcheived.</p>
+            <p>
+               <pb facs="tcp:99403:4"/>There are not a few wiſe men aſſembled in
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> to whom theſe affaires are open.</p>
+            <p>Were they as truly pious, as wiſe, making the Palace of Weſtmihſter a true old Roman, not
+a Chriſtian Senate, they would not Heathen-like ſo haſtily contrive their, and your owne
+ruines; and as the true Copies of thoſe former Tyrants joy in the bloud-ſhed of ſo many
+Catholicks whoſe ſepa<g ref="char:EOLhyphen"/>ration from the body cannot pleaſe, unleſſe their miſerable, and
+never too much to be lamented Car'Kaſſes be on their publicke Gates exalted, and ex<g ref="char:EOLhyphen"/>poſed a
+ridiculous object to their poſterity.</p>
+            <p>This alone is a ſufficient warrant for all our un<g ref="char:EOLhyphen"/>juſt miſcalled cruelty: and hee that
+hitherto hath furniſhed us with 30000. will treble the number, ſince he hath promiſed never
+to faile thoſe who really call upon him.</p>
+            <p>For we appeale unto his Almighty Throne, that neither poverty, ſickneſſe, or calamity true
+Mothers of Rebellion, together with unequall Taxations, or impoſitions, thoſe firſt fruits of
+murmuring. have cauſed our reſiſtance, but onely the cauſe of Chriſt, and his viliſied
+Church, as before the dread<g ref="char:EOLhyphen"/>full ſeate of Judgment we hope one day to anſwer, is, an ever
+ſhall be an occaſion, now, and at all times, of the hazarding of our goods, lives, and
+fortunes, toward the confuſion of Gods perfect Enemies.</p>
+            <p>
+               <pb facs="tcp:99403:4" rendition="simple:additions"/>So with onely this, I leave you. Feare not him
+that can deſtroy the body, but him that can de<g ref="char:EOLhyphen"/>ſtroy both ſoule and body eternally,</p>
+            <closer>
+               <signed>Your yet not deſparing Well-wiſher, and true Servant of the Catholicke
+Church, Patrick Roch.</signed>
+               <dateline>Tredagh, <date>Shortly in the ſhorteſt day of our yeere, Decemb. 11. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="authentication">
+            <p>REader, this is the true and perfect Copy of that Letter, which was privatly ſent by Maſter
+<hi>William Reymond</hi> one of the fellowes of the <hi>college in Dublin,</hi> to Mr. <hi>Charles
+Francke,</hi> a Miniſter of Gods Word in <hi>Suffolke.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
